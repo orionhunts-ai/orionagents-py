@@ -1,0 +1,10 @@
+.env
+env/
+_int/
+docs/
+.deploy
+orion-hunts.code-workspace
+.DS_Store
+_private
+OrionSuite
+

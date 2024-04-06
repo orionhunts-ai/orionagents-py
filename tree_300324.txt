@@ -1,0 +1,15 @@
+orion_agents/
+│
+├── harvester/                      # Threat Intel Harvester Microservice
+│   ├── ...                         # (existing files)
+│
+├── gateway/                        # Portkey AI Gateway Microservice
+│   ├── __init__.py
+│   ├── main.py                     # Main gateway service runner
+│   ├── ai_client.py                # Handles communication with external AI services
+│   └── router.py                   # Routes requests from Orion Agents to appropriate AI services
+│
+├── common/                         # Common utilities and configurations
+│   ├── ...                         # (existing files)
+│
+└── requirements.txt                # Updated Python package dependencies

@@ -1,0 +1,26 @@
+[
+{
+    "model": "gpt-4",
+    "api_key": "<your OpenAI API key here>"
+},
+{
+    "model": "gpt-3.5-turbo",
+    "api_key": "<your Azure OpenAI API key here>",
+    "base_url": "<your Azure OpenAI API base here>",
+    "api_type": "azure",
+    "api_version": "2024-02-15-preview"
+},
+{
+    "model": "gpt-3.5-turbo-16k",
+    "api_key": "<your Azure OpenAI API key here>",
+    "base_url": "<your Azure OpenAI API base here>",
+    "api_type": "azure"
+}
+]
+    'model': 'gpt-3.5-turbo-16k',
+    'api_key': '<your Azure OpenAI API key here>',
+    'base_url': '<your Azure OpenAI API base here>',
+    'api_type': 'azure',
+    'api_version': '2024-02-15-preview',
+},
+]
